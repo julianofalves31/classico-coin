@@ -1,0 +1,246 @@
+C:\Users\Youtube\source\repos\firebaseapp\firebaseapp\bin\Debug\firebaseapp.exe.config
+C:\Users\Youtube\source\repos\firebaseapp\firebaseapp\bin\Debug\firebaseapp.exe
+C:\Users\Youtube\source\repos\firebaseapp\firebaseapp\bin\Debug\firebaseapp.pdb
+C:\Users\Youtube\source\repos\firebaseapp\firebaseapp\bin\Debug\FireSharp.dll
+C:\Users\Youtube\source\repos\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Youtube\source\repos\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Youtube\source\repos\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Youtube\source\repos\firebaseapp\firebaseapp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Youtube\source\repos\firebaseapp\firebaseapp\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Youtube\source\repos\firebaseapp\firebaseapp\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Youtube\source\repos\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Youtube\source\repos\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Youtube\source\repos\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Youtube\source\repos\firebaseapp\firebaseapp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Youtube\source\repos\firebaseapp\firebaseapp\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Youtube\source\repos\firebaseapp\firebaseapp\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Youtube\source\repos\firebaseapp\firebaseapp\obj\Debug\firebaseapp.csproj.App.config
+C:\Users\Youtube\source\repos\firebaseapp\firebaseapp\obj\Debug\firebaseapp.csprojAssemblyReference.cache
+C:\Users\Youtube\source\repos\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Form1.resources
+C:\Users\Youtube\source\repos\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Properties.Resources.resources
+C:\Users\Youtube\source\repos\firebaseapp\firebaseapp\obj\Debug\firebaseapp.csproj.GenerateResource.cache
+C:\Users\Youtube\source\repos\firebaseapp\firebaseapp\obj\Debug\firebaseapp.csproj.CoreCompileInputs.cache
+C:\Users\Youtube\source\repos\firebaseapp\firebaseapp\obj\Debug\firebaseapp.csproj.CopyComplete
+C:\Users\Youtube\source\repos\firebaseapp\firebaseapp\obj\Debug\firebaseapp.exe
+C:\Users\Youtube\source\repos\firebaseapp\firebaseapp\obj\Debug\firebaseapp.pdb
+C:\Users\Bit Help\Downloads\firebaseapp\firebaseapp\firebaseapp\bin\Debug\firebaseapp.exe.config
+C:\Users\Bit Help\Downloads\firebaseapp\firebaseapp\firebaseapp\bin\Debug\firebaseapp.exe
+C:\Users\Bit Help\Downloads\firebaseapp\firebaseapp\firebaseapp\bin\Debug\firebaseapp.pdb
+C:\Users\Bit Help\Downloads\firebaseapp\firebaseapp\firebaseapp\bin\Debug\FireSharp.dll
+C:\Users\Bit Help\Downloads\firebaseapp\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Bit Help\Downloads\firebaseapp\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Bit Help\Downloads\firebaseapp\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Bit Help\Downloads\firebaseapp\firebaseapp\firebaseapp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bit Help\Downloads\firebaseapp\firebaseapp\firebaseapp\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Bit Help\Downloads\firebaseapp\firebaseapp\firebaseapp\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Bit Help\Downloads\firebaseapp\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Bit Help\Downloads\firebaseapp\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Bit Help\Downloads\firebaseapp\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Bit Help\Downloads\firebaseapp\firebaseapp\firebaseapp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bit Help\Downloads\firebaseapp\firebaseapp\firebaseapp\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Bit Help\Downloads\firebaseapp\firebaseapp\firebaseapp\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Bit Help\Downloads\firebaseapp\firebaseapp\firebaseapp\obj\Debug\firebaseapp.csproj.App.config
+C:\Users\Bit Help\Downloads\firebaseapp\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Form1.resources
+C:\Users\Bit Help\Downloads\firebaseapp\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Properties.Resources.resources
+C:\Users\Bit Help\Downloads\firebaseapp\firebaseapp\firebaseapp\obj\Debug\firebaseapp.csproj.GenerateResource.cache
+C:\Users\Bit Help\Downloads\firebaseapp\firebaseapp\firebaseapp\obj\Debug\firebaseapp.csproj.CopyComplete
+C:\Users\Bit Help\Downloads\firebaseapp\firebaseapp\firebaseapp\obj\Debug\firebaseapp.exe
+C:\Users\Bit Help\Downloads\firebaseapp\firebaseapp\firebaseapp\obj\Debug\firebaseapp.pdb
+C:\Users\Bit Help\Downloads\firebaseapp\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Form2.resources
+C:\Users\Bit Help\Downloads\firebaseapp\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Form0.resources
+C:\Users\Bit Help\Downloads\firebaseapp\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Form01.resources
+C:\Users\Bit Help\Downloads\firebaseapp\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Form3.resources
+C:\Users\Bit Help\Downloads\firebaseapp\firebaseapp\firebaseapp\obj\Debug\firebaseapp.csprojAssemblyReference.cache
+C:\Users\Bit Help\Downloads\PDV\firebaseapp\firebaseapp\bin\Debug\firebaseapp.exe.config
+C:\Users\Bit Help\Downloads\PDV\firebaseapp\firebaseapp\bin\Debug\firebaseapp.exe
+C:\Users\Bit Help\Downloads\PDV\firebaseapp\firebaseapp\bin\Debug\firebaseapp.pdb
+C:\Users\Bit Help\Downloads\PDV\firebaseapp\firebaseapp\bin\Debug\FireSharp.dll
+C:\Users\Bit Help\Downloads\PDV\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Bit Help\Downloads\PDV\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Bit Help\Downloads\PDV\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Bit Help\Downloads\PDV\firebaseapp\firebaseapp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bit Help\Downloads\PDV\firebaseapp\firebaseapp\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Bit Help\Downloads\PDV\firebaseapp\firebaseapp\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Bit Help\Downloads\PDV\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Bit Help\Downloads\PDV\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Bit Help\Downloads\PDV\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Bit Help\Downloads\PDV\firebaseapp\firebaseapp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bit Help\Downloads\PDV\firebaseapp\firebaseapp\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Bit Help\Downloads\PDV\firebaseapp\firebaseapp\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Bit Help\Downloads\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.csproj.App.config
+C:\Users\Bit Help\Downloads\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.csprojAssemblyReference.cache
+C:\Users\Bit Help\Downloads\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Form0.resources
+C:\Users\Bit Help\Downloads\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Form01.resources
+C:\Users\Bit Help\Downloads\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Form1.resources
+C:\Users\Bit Help\Downloads\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Form2.resources
+C:\Users\Bit Help\Downloads\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Form3.resources
+C:\Users\Bit Help\Downloads\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Properties.Resources.resources
+C:\Users\Bit Help\Downloads\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.csproj.GenerateResource.cache
+C:\Users\Bit Help\Downloads\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.csproj.CopyComplete
+C:\Users\Bit Help\Downloads\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.exe
+C:\Users\Bit Help\Downloads\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.pdb
+F:\ClassicoCoin\CADASTRO\CADASTRO\firebaseapp\firebaseapp\obj\Debug\firebaseapp.csproj.App.config
+F:\ClassicoCoin\CADASTRO\CADASTRO\firebaseapp\firebaseapp\obj\Debug\firebaseapp.csprojAssemblyReference.cache
+F:\ClassicoCoin\CADASTRO\CADASTRO\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Form0.resources
+F:\ClassicoCoin\CADASTRO\CADASTRO\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Form01.resources
+F:\ClassicoCoin\CADASTRO\CADASTRO\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Form1.resources
+F:\ClassicoCoin\CADASTRO\CADASTRO\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Form2.resources
+F:\ClassicoCoin\CADASTRO\CADASTRO\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Form3.resources
+F:\ClassicoCoin\CADASTRO\CADASTRO\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Properties.Resources.resources
+F:\ClassicoCoin\CADASTRO\CADASTRO\firebaseapp\firebaseapp\obj\Debug\firebaseapp.csproj.GenerateResource.cache
+F:\ClassicoCoin\CADASTRO\CADASTRO\firebaseapp\firebaseapp\obj\Debug\firebaseapp.exe
+F:\ClassicoCoin\CADASTRO\CADASTRO\firebaseapp\firebaseapp\obj\Debug\firebaseapp.pdb
+F:\ClassicoCoin\CADASTRO\CADASTRO\firebaseapp\firebaseapp\bin\Debug\firebaseapp.exe.config
+F:\ClassicoCoin\CADASTRO\CADASTRO\firebaseapp\firebaseapp\bin\Debug\firebaseapp.exe
+F:\ClassicoCoin\CADASTRO\CADASTRO\firebaseapp\firebaseapp\bin\Debug\firebaseapp.pdb
+F:\ClassicoCoin\CADASTRO\CADASTRO\firebaseapp\firebaseapp\bin\Debug\FireSharp.dll
+F:\ClassicoCoin\CADASTRO\CADASTRO\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.dll
+F:\ClassicoCoin\CADASTRO\CADASTRO\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+F:\ClassicoCoin\CADASTRO\CADASTRO\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+F:\ClassicoCoin\CADASTRO\CADASTRO\firebaseapp\firebaseapp\bin\Debug\Newtonsoft.Json.dll
+F:\ClassicoCoin\CADASTRO\CADASTRO\firebaseapp\firebaseapp\bin\Debug\System.Net.Http.Extensions.dll
+F:\ClassicoCoin\CADASTRO\CADASTRO\firebaseapp\firebaseapp\bin\Debug\System.Net.Http.Primitives.dll
+F:\ClassicoCoin\CADASTRO\CADASTRO\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.xml
+F:\ClassicoCoin\CADASTRO\CADASTRO\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+F:\ClassicoCoin\CADASTRO\CADASTRO\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+F:\ClassicoCoin\CADASTRO\CADASTRO\firebaseapp\firebaseapp\bin\Debug\Newtonsoft.Json.xml
+F:\ClassicoCoin\CADASTRO\CADASTRO\firebaseapp\firebaseapp\bin\Debug\System.Net.Http.Extensions.xml
+F:\ClassicoCoin\CADASTRO\CADASTRO\firebaseapp\firebaseapp\bin\Debug\System.Net.Http.Primitives.xml
+F:\ClassicoCoin\CADASTRO\CADASTRO\firebaseapp\firebaseapp\obj\Debug\firebaseapp.csproj.CopyComplete
+F:\ClassicoCoin\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\firebaseapp.exe.config
+F:\ClassicoCoin\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\firebaseapp.exe
+F:\ClassicoCoin\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\firebaseapp.pdb
+F:\ClassicoCoin\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\FireSharp.dll
+F:\ClassicoCoin\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.dll
+F:\ClassicoCoin\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+F:\ClassicoCoin\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+F:\ClassicoCoin\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\Newtonsoft.Json.dll
+F:\ClassicoCoin\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\System.Net.Http.Extensions.dll
+F:\ClassicoCoin\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\System.Net.Http.Primitives.dll
+F:\ClassicoCoin\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.xml
+F:\ClassicoCoin\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+F:\ClassicoCoin\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+F:\ClassicoCoin\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\Newtonsoft.Json.xml
+F:\ClassicoCoin\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\System.Net.Http.Extensions.xml
+F:\ClassicoCoin\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\System.Net.Http.Primitives.xml
+F:\ClassicoCoin\PDV\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.csproj.App.config
+F:\ClassicoCoin\PDV\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Form0.resources
+F:\ClassicoCoin\PDV\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Form01.resources
+F:\ClassicoCoin\PDV\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Form1.resources
+F:\ClassicoCoin\PDV\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Form2.resources
+F:\ClassicoCoin\PDV\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Form3.resources
+F:\ClassicoCoin\PDV\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Properties.Resources.resources
+F:\ClassicoCoin\PDV\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.csproj.GenerateResource.cache
+F:\ClassicoCoin\PDV\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.csproj.CopyComplete
+F:\ClassicoCoin\PDV\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.exe
+F:\ClassicoCoin\PDV\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.pdb
+F:\ClassicoCoin\PDV\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.csprojAssemblyReference.cache
+C:\Users\Bit Help\Desktop\PDV\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.csprojAssemblyReference.cache
+C:\Users\Bit Help\Desktop\PDV\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Form0.resources
+C:\Users\Bit Help\Desktop\PDV\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Form1.resources
+C:\Users\Bit Help\Desktop\PDV\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Form2.resources
+C:\Users\Bit Help\Desktop\PDV\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Form3.resources
+C:\Users\Bit Help\Desktop\PDV\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Properties.Resources.resources
+C:\Users\Bit Help\Desktop\PDV\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.csproj.GenerateResource.cache
+C:\Users\Bit Help\Desktop\PDV\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.exe
+C:\Users\Bit Help\Desktop\PDV\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.pdb
+C:\Users\Bit Help\Desktop\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\firebaseapp.exe.config
+C:\Users\Bit Help\Desktop\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\firebaseapp.exe
+C:\Users\Bit Help\Desktop\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\firebaseapp.pdb
+C:\Users\Bit Help\Desktop\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\FireSharp.dll
+C:\Users\Bit Help\Desktop\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Bit Help\Desktop\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Bit Help\Desktop\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Bit Help\Desktop\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bit Help\Desktop\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Bit Help\Desktop\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Bit Help\Desktop\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Bit Help\Desktop\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Bit Help\Desktop\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Bit Help\Desktop\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bit Help\Desktop\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Bit Help\Desktop\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Bit Help\Desktop\PDV\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.csproj.CopyComplete
+C:\Users\Bit Help\Desktop\PDV\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Form4.resources
+C:\Users\Bit Help\Desktop\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\EntityFramework.dll
+C:\Users\Bit Help\Desktop\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bit Help\Desktop\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Bit Help\Desktop\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Bit Help\Desktop\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\SimpleReports.dll
+C:\Users\Bit Help\Desktop\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\Toolkit.Reporting.dll
+C:\Users\Bit Help\Desktop\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\EntityFramework.xml
+C:\Users\Bit Help\Desktop\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\julia\OneDrive\Área de Trabalho\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\firebaseapp.exe.config
+C:\Users\julia\OneDrive\Área de Trabalho\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\firebaseapp.exe
+C:\Users\julia\OneDrive\Área de Trabalho\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\firebaseapp.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\EntityFramework.dll
+C:\Users\julia\OneDrive\Área de Trabalho\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\julia\OneDrive\Área de Trabalho\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\FireSharp.dll
+C:\Users\julia\OneDrive\Área de Trabalho\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\julia\OneDrive\Área de Trabalho\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\julia\OneDrive\Área de Trabalho\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\julia\OneDrive\Área de Trabalho\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\julia\OneDrive\Área de Trabalho\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\julia\OneDrive\Área de Trabalho\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\julia\OneDrive\Área de Trabalho\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\SimpleReports.dll
+C:\Users\julia\OneDrive\Área de Trabalho\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\julia\OneDrive\Área de Trabalho\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\julia\OneDrive\Área de Trabalho\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\Toolkit.Reporting.dll
+C:\Users\julia\OneDrive\Área de Trabalho\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\EntityFramework.xml
+C:\Users\julia\OneDrive\Área de Trabalho\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\julia\OneDrive\Área de Trabalho\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\julia\OneDrive\Área de Trabalho\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\julia\OneDrive\Área de Trabalho\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\julia\OneDrive\Área de Trabalho\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\julia\OneDrive\Área de Trabalho\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\julia\OneDrive\Área de Trabalho\PDV\PDV\firebaseapp\firebaseapp\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\julia\OneDrive\Área de Trabalho\PDV\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Form0.resources
+C:\Users\julia\OneDrive\Área de Trabalho\PDV\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Form1.resources
+C:\Users\julia\OneDrive\Área de Trabalho\PDV\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Form2.resources
+C:\Users\julia\OneDrive\Área de Trabalho\PDV\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Form3.resources
+C:\Users\julia\OneDrive\Área de Trabalho\PDV\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Form4.resources
+C:\Users\julia\OneDrive\Área de Trabalho\PDV\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Properties.Resources.resources
+C:\Users\julia\OneDrive\Área de Trabalho\PDV\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.csproj.GenerateResource.cache
+C:\Users\julia\OneDrive\Área de Trabalho\PDV\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Área de Trabalho\PDV\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.csproj.CopyComplete
+C:\Users\julia\OneDrive\Área de Trabalho\PDV\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.exe
+C:\Users\julia\OneDrive\Área de Trabalho\PDV\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\PDV\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.csprojAssemblyReference.cache
+C:\Users\Bit Help\Desktop\Release\PDV 0.7\PDV\firebaseapp\firebaseapp\bin\Debug\firebaseapp.exe.config
+C:\Users\Bit Help\Desktop\Release\PDV 0.7\PDV\firebaseapp\firebaseapp\bin\Debug\firebaseapp.exe
+C:\Users\Bit Help\Desktop\Release\PDV 0.7\PDV\firebaseapp\firebaseapp\bin\Debug\firebaseapp.pdb
+C:\Users\Bit Help\Desktop\Release\PDV 0.7\PDV\firebaseapp\firebaseapp\bin\Debug\EntityFramework.dll
+C:\Users\Bit Help\Desktop\Release\PDV 0.7\PDV\firebaseapp\firebaseapp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bit Help\Desktop\Release\PDV 0.7\PDV\firebaseapp\firebaseapp\bin\Debug\FireSharp.dll
+C:\Users\Bit Help\Desktop\Release\PDV 0.7\PDV\firebaseapp\firebaseapp\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Bit Help\Desktop\Release\PDV 0.7\PDV\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Bit Help\Desktop\Release\PDV 0.7\PDV\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Bit Help\Desktop\Release\PDV 0.7\PDV\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Bit Help\Desktop\Release\PDV 0.7\PDV\firebaseapp\firebaseapp\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Bit Help\Desktop\Release\PDV 0.7\PDV\firebaseapp\firebaseapp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bit Help\Desktop\Release\PDV 0.7\PDV\firebaseapp\firebaseapp\bin\Debug\SimpleReports.dll
+C:\Users\Bit Help\Desktop\Release\PDV 0.7\PDV\firebaseapp\firebaseapp\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Bit Help\Desktop\Release\PDV 0.7\PDV\firebaseapp\firebaseapp\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Bit Help\Desktop\Release\PDV 0.7\PDV\firebaseapp\firebaseapp\bin\Debug\Toolkit.Reporting.dll
+C:\Users\Bit Help\Desktop\Release\PDV 0.7\PDV\firebaseapp\firebaseapp\bin\Debug\EntityFramework.xml
+C:\Users\Bit Help\Desktop\Release\PDV 0.7\PDV\firebaseapp\firebaseapp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bit Help\Desktop\Release\PDV 0.7\PDV\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Bit Help\Desktop\Release\PDV 0.7\PDV\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Bit Help\Desktop\Release\PDV 0.7\PDV\firebaseapp\firebaseapp\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Bit Help\Desktop\Release\PDV 0.7\PDV\firebaseapp\firebaseapp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bit Help\Desktop\Release\PDV 0.7\PDV\firebaseapp\firebaseapp\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Bit Help\Desktop\Release\PDV 0.7\PDV\firebaseapp\firebaseapp\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Bit Help\Desktop\Release\PDV 0.7\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Form0.resources
+C:\Users\Bit Help\Desktop\Release\PDV 0.7\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Form1.resources
+C:\Users\Bit Help\Desktop\Release\PDV 0.7\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Form2.resources
+C:\Users\Bit Help\Desktop\Release\PDV 0.7\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Form3.resources
+C:\Users\Bit Help\Desktop\Release\PDV 0.7\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Form4.resources
+C:\Users\Bit Help\Desktop\Release\PDV 0.7\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Form6.resources
+C:\Users\Bit Help\Desktop\Release\PDV 0.7\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.Properties.Resources.resources
+C:\Users\Bit Help\Desktop\Release\PDV 0.7\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.csproj.GenerateResource.cache
+C:\Users\Bit Help\Desktop\Release\PDV 0.7\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.csproj.CopyComplete
+C:\Users\Bit Help\Desktop\Release\PDV 0.7\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.exe
+C:\Users\Bit Help\Desktop\Release\PDV 0.7\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.pdb
+C:\Users\Bit Help\Desktop\Release\PDV 0.7\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.csprojAssemblyReference.cache
+C:\Users\julia\Documents\Scripts\C#\CLASSICO COIN-20210222T205710Z-001\CLASSICO COIN\PDV 0.7\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.exe
+C:\Users\julia\Documents\Scripts\C#\CLASSICO COIN-20210222T205710Z-001\CLASSICO COIN\PDV 0.7\PDV\firebaseapp\firebaseapp\obj\Debug\firebaseapp.pdb
